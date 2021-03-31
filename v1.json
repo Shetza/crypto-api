@@ -1,0 +1,26 @@
+[
+    {
+        "code": "BTC",
+        "name": "Bitcoin",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg",
+        "symbol": "BTC, XBT, ₿"
+    },
+    {
+        "code": "ETH",
+        "name": "Ethereum",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg",
+        "symbol": "ETH"
+    },
+    {
+        "code": "XMR",
+        "name": "Monero",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Monero-Logo.svg",
+        "symbol": "XMR, ɱ"
+    },
+    {
+        "code": "XVG",
+        "name": "Verge",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Verge_logo.svg",
+        "symbol": "XVG"
+    }
+]
